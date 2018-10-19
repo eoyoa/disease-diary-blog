@@ -1,6 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+header {
+    background-color: dimgrey;
+    text-decoration-color: white;
+}
 article.main {
     padding: 10px;
     box-shadow: 0px 0px 10px gray;
