@@ -1,5 +1,5 @@
 body {
-    background-color: #DCDCDC;
+    background-color: lightblue;
     font-family: 'Roboto', sans-serif;
     margin: 0;
     top: 0;
@@ -14,15 +14,14 @@ header {
     box-shadow: 0px 0px 10px darkgray;
 }
 main {
+    background-color: white;
+    border-radius: 5px;
     padding: 10px;
 }
 article {
     background-color: white;
     padding: 10px;
     box-shadow: 0px 0px 10px darkgray;
-}
-h2 {
-    color: darkslategray;
 }
 a {
     text-decoration: none;
