@@ -2,8 +2,8 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 header {
-    border-bottom: thin solid gray
+    box-shadow: 0px 0px 5px 5px gray;
 }
 #posts {
-    box-shadow: 0px 2px 5px gray, 0px -2px 5px gray;
+    box-shadow: 0px 0px 5px 5px gray;
 }
