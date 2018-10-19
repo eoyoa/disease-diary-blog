@@ -5,5 +5,5 @@ header {
     border-bottom: thin solid gray
 }
 #posts {
-    box-shadow: 0px 5px 10px gray, 0px -5px 10px gray;
+    box-shadow: 0px 2px 5px gray, 0px -2px 5px gray;
 }
