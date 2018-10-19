@@ -5,7 +5,10 @@ body {
 header {
     text-align: center;
 }
-article.main {
+section {
+    padding: 10px;
+}
+article {
     padding: 10px;
     box-shadow: 0px 0px 10px gray;
 }
