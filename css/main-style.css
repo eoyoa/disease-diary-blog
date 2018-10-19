@@ -3,11 +3,7 @@ body {
     margin: 0;
 }
 header {
-    background-color: gray;
-    color: white;
     text-align: center;
-    width: 100%;
-    box-shadow: 0px 0px 10px darkgray;
 }
 main {
     padding: 10px;
