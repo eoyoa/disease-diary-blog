@@ -3,7 +3,7 @@ body {
 }
 header {
     background-color: dimgrey;
-    text-decoration-color: white;
+    color: white;
 }
 article.main {
     padding: 10px;
