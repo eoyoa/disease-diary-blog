@@ -4,6 +4,6 @@ body {
 header {
     border-bottom: thin solid gray
 }
-posts {
+#posts {
     box-shadow: 0px 5px 10px gray, 0px -5px 10px gray;
 }
