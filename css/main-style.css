@@ -1,5 +1,5 @@
 body {
-    background-image: "/images/background.jpg";
+    background-image: url("/images/background.jpg");
     font-family: 'Roboto', sans-serif;
     margin: 0;
     top: 0;
