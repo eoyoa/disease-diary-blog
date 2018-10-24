@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "URW Geometric Light";
-    src: url("/fonts/URW Geometric Light.otf");
+    font-family: "Open Sans";
+    src: url("https://fonts.googleapis.com/css?family=Open+Sans");
 }
 body {
     background-image: url("/images/background.jpg");
@@ -8,7 +8,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    font-family: "URW Geometric Light";
+    font-family: "Open Sans";
     margin: 0;
 }
 header {
