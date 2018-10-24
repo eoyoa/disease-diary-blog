@@ -1,10 +1,14 @@
+@font-face {
+    font-family: "URW Geometric Light";
+    src: url("/fonts/URW Geometric Light.otf");
+}
 body {
     background-image: url("/images/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    font-family: 'Roboto', sans-serif;
+    font-family: "URW Geometric Light";
     margin: 0;
 }
 header {
