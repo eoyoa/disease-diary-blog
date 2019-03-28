@@ -1,0 +1,16 @@
+body {
+    background-color: #87CEFA;
+    font-family: "Open Sans", sans-serif;
+    font-display: swap;
+    margin: 0;
+}
+
+header {
+    position: absolute;
+    left: 0px;
+}
+
+section {
+    position: absolute;
+    right: 0px;
+}
