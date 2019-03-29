@@ -6,11 +6,9 @@ body {
 }
 
 header {
-    position: absolute;
-    left: 0px;
+    float: left;
 }
 
 section {
-    position: absolute;
-    right: 0px;
+    float: right;
 }
