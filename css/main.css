@@ -2,20 +2,18 @@ body {
     background-color: #87CEFA;
     font-family: "Open Sans", sans-serif;
     font-display: swap;
+    margin: 0%;
 }
 
 header {
-    position: absolute;
-    left: 0%;
-    margin-top: auto;
-    margin-bottom: auto;
+    width: 50%;
+    height: 100%;
+    float: left;
 }
 
 section {
-    position: absolute;
-    right: 50%;
-    margin-top: auto;
-    margin-bottom: auto;
-    background-color: #FFFFFF;
+    width: 50%;
     height: 100%;
+    float: right;
+    background-color: #FFFFFF;
 }
