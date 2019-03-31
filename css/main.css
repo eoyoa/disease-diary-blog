@@ -9,11 +9,13 @@ header {
     width: 50%;
     height: 100vh;
     float: left;
+    vertical-align: middle;
 }
 
 section {
     width: 50%;
     height: 100vh;
     float: right;
+    vertical-align: middle;
     background-color: #FFFFFF;
 }
