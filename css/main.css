@@ -14,12 +14,12 @@ header {
     justify-content: center;
 }
 
-section {
+main {
     width: 50%;
     height: 100vh;
     float: right;
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
 }
