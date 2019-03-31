@@ -5,6 +5,12 @@ body {
     background-image: url("https://images.pexels.com/photos/418831/pexels-photo-418831.jpeg?auto=compress&h=1080&w=1920");
 }
 
+#main-content {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 #wrapper {
     padding: 10px;
 }
@@ -13,16 +19,14 @@ header {
     display: flex;
     align-items: center;
     height: 100vh;
-    width: calc(100vw * 0.65 + 0.5);
     min-width: 208px;
     float: left;
     color: white;
-    background: rgba(0, 0, 0, 0.4);
 }
 
 main {
     height: 100vh;
-    width: calc(100vw * 0.35 + 0.5);
+    width: 35vw;
     min-width: 340px;
     float: right;
     background-color: white;
