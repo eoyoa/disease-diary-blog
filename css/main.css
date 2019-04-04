@@ -48,6 +48,7 @@ article {
 		height: 100vh;
 		min-width: 208px;
 		float: left;
+		font-size: 30vw;
 	}
 	main {
 		height: 100vh;
